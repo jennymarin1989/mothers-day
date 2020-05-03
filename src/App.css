@@ -1,0 +1,14 @@
+@import url('https://fonts.google.com/specimen/Pangolin?selection.family=Indie+Flower|Neucha|Pangolin');
+
+@font-face {
+  font-family: 'Pangolin', 'Neucha', 'Open Sans', 'Helvetica Neue', sans-serif;
+  src: url('https://fonts.google.com/specimen/Pangolin?selection.family=Indie+Flower|Neucha|Pangolin')
+}
+
+.App {
+  text-align: center;
+  height: fit-content
+}
+
+
+
