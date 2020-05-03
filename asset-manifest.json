@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/mothers-day/static/css/main.b38faa5c.chunk.css",
+    "main.js": "/mothers-day/static/js/main.55cb805f.chunk.js",
+    "main.js.map": "/mothers-day/static/js/main.55cb805f.chunk.js.map",
+    "runtime-main.js": "/mothers-day/static/js/runtime-main.a7fbda5d.js",
+    "runtime-main.js.map": "/mothers-day/static/js/runtime-main.a7fbda5d.js.map",
+    "static/js/2.704b34b5.chunk.js": "/mothers-day/static/js/2.704b34b5.chunk.js",
+    "static/js/2.704b34b5.chunk.js.map": "/mothers-day/static/js/2.704b34b5.chunk.js.map",
+    "index.html": "/mothers-day/index.html",
+    "precache-manifest.6d901a2cae5ed3f330902424bc54bf6a.js": "/mothers-day/precache-manifest.6d901a2cae5ed3f330902424bc54bf6a.js",
+    "service-worker.js": "/mothers-day/service-worker.js",
+    "static/css/main.b38faa5c.chunk.css.map": "/mothers-day/static/css/main.b38faa5c.chunk.css.map",
+    "static/js/2.704b34b5.chunk.js.LICENSE.txt": "/mothers-day/static/js/2.704b34b5.chunk.js.LICENSE.txt",
+    "static/media/HMD3.png": "/mothers-day/static/media/HMD3.c4331281.png",
+    "static/media/logo.svg": "/mothers-day/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a7fbda5d.js",
+    "static/js/2.704b34b5.chunk.js",
+    "static/css/main.b38faa5c.chunk.css",
+    "static/js/main.55cb805f.chunk.js"
+  ]
+}
